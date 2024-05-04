@@ -5,14 +5,18 @@
       <title>Dandre Jackson</title>
       </head>
     <body>
+    <header>
       <h1>Dandre Jackson</h1>
       <h3> </h3>
       <h3>Web Designing is FUN</h3>
+      <nav>
       <ul>
         <li><a href="#home.html">Home</a></li>
         <li><a href="#edu.html">Education</a></li>
         <li><a href="#work.html">Work</a></li>
       </ul>
+      </nav>
+      </header>
       <h3>EDUCATION</h3>
       <img src="lake-gem-elementary-school-orlando-fl-2.jpg">
       <h5>Elemntary</h5>
